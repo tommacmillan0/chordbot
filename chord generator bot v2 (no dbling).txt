@@ -1,0 +1,78 @@
+{
+
+"origin": ["Today's chord progression:\n\n#chord1#, #chordx1#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord2#, #chordx2#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord3#, #chordx3#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord4#, #chordx4#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord5#, #chordx5#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord6#, #chordx6#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord7#, #chordx7#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord8#, #chordx8#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord9#, #chordx9#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord10#, #chordx10#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord11#, #chordx11#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord12#, #chordx12#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord13#, #chordx13#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord14#, #chordx14#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord15#, #chordx15#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord16#, #chordx16#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chord17#, #chordx17#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx1#, #chord1#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx2#, #chord2#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx3#, #chord3#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx4#, #chord4#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx5#, #chord5#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx6#, #chord6#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx7#, #chord7#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx8#, #chord8#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx9#, #chord9#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx10#, #chord10#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx11#, #chord11#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx12#, #chord12#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx13#, #chord13#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx14#, #chord14#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx15#, #chord15#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx16#, #chord16#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void","Today's chord progression:\n\n#chordx17#, #chord17#\n\n\\#chordprogression \\#songwritingtools \\#chordbot \\#jazzchords \\#chordgenerator \\#music \\#void"],
+
+
+"chord1":["Cmaj7, Dm7"],
+
+"chordx1":["Em, F♯m7♭5","Em, Am6","F♯m7♭5","Gmaj7, Am7","Am7, Bm7","Bm, Am","C♯7(alt)","Em, Faug","Fmaj7♯5, G7","G7♯11","G7, A7","A7, G7","Bm7♭5, A7","E7♯9","FmMaj7, G7","Fm, Em","G7♭9","G, Fm","A♭maj7♯5♯9","Bdim","E, Fmaj7","Fmaj7, E","Fmaj7♯11, AmMaj7","G♯dim","Am, E7♭9","Bm7♭5, E7","E♭maj7♯5, F7","F7♯11","F7, G7","G7, F7","Am7♭5, G7","B7(alt)","Em7♭5","Fmaj7, Gm7","Fmaj7, B♭maj7","Gm7, Am7","Am, B♭","Am, Gm","B♭maj7♯11","B♭maj7, Am7"],
+
+"chord2":["Cmaj7, Fmaj7"],
+
+"chordx2":["D7sus4","D, Am","Em, F♯m7♭5","Em, Am6","F♯m7♭5","Gmaj7, Am7","Gmaj7, D7","Am7, Bm7","Am7, D7","Bm, Am","C♯7(alt)","Dm6, Em6","Dm, A9","G7♯11","G7, A7","A9, Dm","A7, G7","Bm7♭5, A7","Dm7♭5, E7","E7♯9","G7♭9","A♭maj7♯5♯9","Bdim","Dm7, E7","E, Dm","G♯dim","Am, E7♭9","Bm7♭5, E7","Dm, Gaug","Am7♭5, G7","B7(alt)","Dm, Em7♭5","Dm, Gm6","Dmadd9, B♭","Em7♭5","Gm7, Am7","Am, B♭","Am, Gm","B♭maj7♯11","B♭maj7, Am7"],
+
+"chord3":["Cmaj7, G7"],
+
+"chordx3":["D7sus4","D, Am","Em, F♯m7♭5","Em, Am6","F♯m7♭5","Am7, Bm7","Am7, D7","Bm, Am","C♯7(alt)","Dm6, Em6","Dm, A9","Em, Faug","A9, Dm","Bm7♭5, A7","Dm7♭5, E7","E7♯9","Fm, Em","A♭maj7♯5♯9","Bdim","Dm7, E7","E, Fmaj7","E, Dm","Fmaj7, E","Fmaj7♯11, AmMaj7","G♯dim","Am, E7♭9","Bm7♭5, E7","E♭maj7♯5, F7","F7♯11","B7(alt)","Dm, Em7♭5","Dmadd9, B♭","Em7♭5","Fmaj7, B♭maj7","Am, B♭","B♭maj7♯11","B♭maj7, Am7"],
+
+"chord4":["Dm7, Em7"],
+
+"chordx4":["Cmaj7♯11","Cmaj7, Bm7","F♯m7♭5","Gmaj7, Am7","Gmaj7, Cmaj7","Am7, Bm7","Bm, C","Bm, Am","C♯7(alt)","Fmaj7♯5, G7","G7♯11","G7, A7","A7, G7","Bm7♭5, A7","Cmaj7, Fm","FmMaj7, G7","Fm, Cmaj7","G7♭9","G, Fm","A♭maj7♯5♯9","Bdim","Cmaj7♯5","Fmaj7♯11, AmMaj7","G♯dim","Cm, G9","F7♯11","F7, G7","G9, Cm","G7, F7","Am7♭5, G7","B7(alt)","C7sus4","C, Gm","C, B♭","Fmaj7, Gm7","Fmaj7, B♭maj7","Fmaj7, C7","Gm7, Am7","Gm7, C7","Am, B♭","Am, Gm","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord5":["Dm7, G7"],
+
+"chordx5":["Cmaj7♯11","Cmaj7, Bm7","Em, F♯m7♭5","Em, Am6","Emadd9, C","F♯m7♭5","Am7, Bm7","Bm, C","Bm, Am","C♯7(alt)","Em, Faug","Bm7♭5, A7","Cmaj7, E7","Cmaj7, Fm","E7♯9","Fm, Cmaj7","Fm, Em","A♭maj7♯5♯9","Bdim","Cmaj7♯5","E, Fmaj7","Fmaj7, E","Fmaj7♯11, AmMaj7","G♯dim","Am, E7♭9","Bm7♭5, E7","E♭maj7♯5, F7","F7♯11","B7(alt)","C7sus4","C, B♭","Em7♭5","Fmaj7, B♭maj7","Fmaj7, C7","Am, B♭","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord6":["Em, F"],
+
+"chordx6":["Cmaj7♯11","Cmaj7, D7","Cmaj7, Bm7","D7sus4","D, Am","D, C","F♯m7♭5","Gmaj7, Am7","Gmaj7, Cmaj7","Gmaj7, D7","Am7, Bm7","Am7, D7","Bm, C","Bm, Am","C♯7(alt)","Dm, A9","G7♯11","G7, A7","A9, Dm","A7, G7","Bm7♭5, A7","Cmaj7, Dm7♭5","G7♭9","A♭maj7♯5♯9","Bdim","Cmaj7♯5","G♯dim","Cm6, Dm6","Cm, G9","Dm, Gaug","Dm, CmMaj7","G9, Cm","Am7♭5, G7","B7(alt)","C7sus4","C, Gm","C, B♭","Dm, Gm6","Dmadd9, B♭","Gm7, Am7","Gm7, C7","Am, B♭","Am, Gm","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord7":["Em, Dm"],
+
+"chordx7":["Cmaj7♯11","Cmaj7, Bm7","F♯m7♭5","Gmaj7, Am7","Gmaj7, Cmaj7","Am7, Bm7","Bm, C","Bm, Am","C♯7(alt)","Fmaj7♯5, G7","G7♯11","G7, A7","A7, G7","Bm7♭5, A7","Cmaj7, Fm","FmMaj7, G7","Fm, Cmaj7","G7♭9","G, Fm","A♭maj7♯5♯9","Bdim","Cmaj7♯5","Fmaj7♯11, AmMaj7","G♯dim","Cm, G9","E♭maj7♯5, F7","F7♯11","F7, G7","G9, Cm","G7, F7","Am7♭5, G7","B7(alt)","C7sus4","C, Gm","C, B♭","Fmaj7, Gm7","Fmaj7, B♭maj7","Fmaj7, C7","Gm7, Am7","Gm7, C7","Am, B♭","Am, Gm","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord8":["Fmaj7♯11"],
+
+"chordx8":["Cmaj7♯11","Cmaj7, D7","Cmaj7, Bm7","D7sus4","D, Am","D, C","Em, F♯m7♭5","Em, Am6","Emadd9, C","F♯m7♭5","Gmaj7, Am7","Gmaj7, Cmaj7","Gmaj7, D7","Am7, Bm7","Am7, D7","Bm, C","Bm, Am","C♯7(alt)","Dm6, Em6","Dm, A9","G7♯11","G7, A7","A9, Dm","A7, G7","Bm7♭5, A7","Cmaj7, Dm7♭5","Cmaj7, E7","Dm7♭5, E7","E7♯9","G7♭9","A♭maj7♯5♯9","Bdim","Cmaj7♯5","Dm7, E7","E, Dm","G♯dim","Am, E7♭9","Bm7♭5, E7","Cm6, Dm6","Cm, G9","Dm, Gaug","Dm, CmMaj7","G9, Cm","Am7♭5, G7","B7(alt)","C7sus4","C, Gm","C, B♭","Dm, Em7♭5","Dm, Gm6","Dmadd9, B♭","Em7♭5","Gm7, Am7","Gm7, C7","Am, B♭","Am, Gm","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord9":["Fmaj7, G7"],
+
+"chordx9":["Cmaj7♯11","Cmaj7, D7","Cmaj7, Bm7","D7sus4","D, Am","D, C","Em, F♯m7♭5","Em, Am6","Emadd9, C","F♯m7♭5","Am7, Bm7","Am7, D7","Bm, C","Bm, Am","C♯7(alt)","Dm6, Em6","Dm, A9","A9, Dm","Bm7♭5, A7","Cmaj7, Dm7♭5","Cmaj7, E7","Dm7♭5, E7","E7♯9","A♭maj7♯5♯9","Bdim","Cmaj7♯5","Dm7, E7","E, Dm","G♯dim","Am, E7♭9","Bm7♭5, E7","Cm6, Dm6","Dm, CmMaj7","B7(alt)","C7sus4","C, B♭","Dm, Em7♭5","Dmadd9, B♭","Em7♭5","Am, B♭","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord10":["Fmaj7, Em7"],
+
+"chordx10":["Cmaj7♯11","Cmaj7, D7","Cmaj7, Bm7","D7sus4","D, Am","D, C","F♯m7♭5","Gmaj7, Am7","Gmaj7, Cmaj7","Gmaj7, D7","Am7, Bm7","Am7, D7","Bm, C","Bm, Am","C♯7(alt)","Dm, A9","G7♯11","G7, A7","A9, Dm","A7, G7","Bm7♭5, A7","Cmaj7, Dm7♭5","G7♭9","A♭maj7♯5♯9","Bdim","Cmaj7♯5","G♯dim","Cm6, Dm6","Cm, G9","Dm, Gaug","Dm, CmMaj7","G9, Cm","Am7♭5, G7","B7(alt)","C7sus4","C, Gm","C, B♭","Dm, Gm6","Dmadd9, B♭","Gm7, Am7","Gm7, C7","Am, B♭","Am, Gm","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord11":["G7sus4"],
+
+"chordx11":["Cmaj7♯11","Cmaj7, D7","Cmaj7, Bm7","D7sus4","D, Am","D, C","Em, F♯m7♭5","Em, Am6","Emadd9, C","F♯m7♭5","Am7, Bm7","Am7, D7","Bm, C","Bm, Am","C♯7(alt)","Dm6, Em6","Dm, A9","Em, Faug","A9, Dm","Bm7♭5, A7","Cmaj7, Dm7♭5","Cmaj7, E7","Cmaj7, Fm","Dm7♭5, E7","E7♯9","Fm, Cmaj7","Fm, Em","A♭maj7♯5♯9","Bdim","Cmaj7♯5","Dm7, E7","E, Fmaj7","E, Dm","Fmaj7, E","Fmaj7♯11, AmMaj7","G♯dim","Am, E7♭9","Bm7♭5, E7","Cm6, Dm6","Dm, CmMaj7","E♭maj7♯5, F7","F7♯11","B7(alt)","C7sus4","C, B♭","Dm, Em7♭5","Dmadd9, B♭","Em7♭5","Fmaj7, B♭maj7","Fmaj7, C7","Am, B♭","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord12":["G, Dm"],
+
+"chordx12":["Cmaj7♯11","Cmaj7, Bm7","Em, F♯m7♭5","Em, Am6","Emadd9, C","F♯m7♭5","Am7, Bm7","Am7, D7","Bm, C","Bm, Am","C♯7(alt)","Em, Faug","Bm7♭5, A7","Cmaj7, E7","Cmaj7, Fm","E7♯9","Fm, Cmaj7","Fm, Em","A♭maj7♯5♯9","Bdim","Cmaj7♯5","E, Fmaj7","Fmaj7, E","Fmaj7♯11, AmMaj7","G♯dim","Am, E7♭9","Bm7♭5, E7","E♭maj7♯5, F7","F7♯11","B7(alt)","C7sus4","C, B♭","Em7♭5","Fmaj7, B♭maj7","Fmaj7, C7","Am, B♭","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord13":["G, F"],
+
+"chordx13":["Cmaj7♯11","Cmaj7, D7","Cmaj7, Bm7","D7sus4","D, Am","D, C","Em, F♯m7♭5","Em, Am6","Emadd9, C","F♯m7♭5","Am7, Bm7","Am7, D7","Bm, C","Bm, Am","C♯7(alt)","Dm6, Em6","Dm, A9","A9, Dm","Bm7♭5, A7","Cmaj7, Dm7♭5","Cmaj7, E7","Dm7♭5, E7","E7♯9","A♭maj7♯5♯9","Bdim","Cmaj7♯5","Dm7, E7","E, Dm","G♯dim","Am, E7♭9","Bm7♭5, E7","Cm6, Dm6","Dm, CmMaj7","B7(alt)","C7sus4","C, B♭","Dm, Em7♭5","Dmadd9, B♭","Em7♭5","Am, B♭","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"],
+
+"chord14":["Am, Bm7♭5"],
+
+"chordx14":["Cmaj7♯11","Cmaj7, D7","D7sus4","D, C","Em, F♯m7♭5","Emadd9, C","F♯m7♭5","Gmaj7, Cmaj7","Gmaj7, D7","C♯7(alt)","Dm6, Em6","Em, Faug","Fmaj7♯5, G7","G7♯11","Cmaj7, Dm7♭5","Cmaj7, E7","Cmaj7, Fm","Dm7♭5, E7","E7♯9","FmMaj7, G7","Fm, Cmaj7","Fm, Em","G7♭9","G, Fm","A♭maj7♯5♯9","Cmaj7♯5","Dm7, E7","E, Fmaj7","E, Dm","Fmaj7, E","Fmaj7♯11","G♯dim","Cm6, Dm6","Cm, G9","Dm, Gaug","Dm, CmMaj7","E♭maj7♯5, F7","F7♯11","F7, G7","G9, Cm","G7, F7","C7sus4","C, Gm","C, B♭","Dm, Em7♭5","Dm, Gm6","Dmadd9, B♭","Em7♭5","Fmaj7, Gm7","Fmaj7, B♭maj7","Fmaj7, C7","Gm7, C7","B♭maj7♯11","B♭maj7, C7"],
+
+"chord15":["Am, Dm6"],
+
+"chordx15":["Cmaj7♯11","Cmaj7, Bm7","Em, F♯m7♭5","Emadd9, C","F♯m7♭5","Gmaj7, Cmaj7","Bm, C","C♯7(alt)","Em, Faug","Fmaj7♯5, G7","G7♯11","Cmaj7, E7","Cmaj7, Fm","E7♯9","FmMaj7, G7","Fm, Cmaj7","Fm, Em","G7♭9","G, Fm","A♭maj7♯5♯9","Bdim","Cmaj7♯5","E, Fmaj7","Fmaj7, E","G♯dim","Bm7♭5, E7","Cm, G9","E♭maj7♯5, F7","F7♯11","F7, G7","G9, Cm","G7, F7","B7(alt)","C7sus4","C, Gm","C, B♭","Em7♭5","Fmaj7, Gm7","Fmaj7, B♭maj7","Fmaj7, C7","Gm7, C7","B♭maj7♯11","B♭maj7, C7"],
+
+"chord16":["Amadd9, F"],
+
+"chordx16":["Cmaj7♯11","Cmaj7, D7","Cmaj7, Bm7","D7sus4","D, C","Em, F♯m7♭5","Emadd9, C","F♯m7♭5","Gmaj7, Cmaj7","Gmaj7, D7","Bm, C","C♯7(alt)","Dm6, Em6","G7♯11","Cmaj7, Dm7♭5","Cmaj7, E7","Dm7♭5, E7","E7♯9","G7♭9","A♭maj7♯5♯9","Bdim","Cmaj7♯5","Dm7, E7","E, Dm","G♯dim","Bm7♭5, E7","Cm6, Dm6","Cm, G9","Dm, Gaug","Dm, CmMaj7","G9, Cm","B7(alt)","C7sus4","C, Gm","C, B♭","Dm, Em7♭5","Dm, Gm6","Dmadd9, B♭","Em7♭5","Gm7, C7","B♭maj7♯11","B♭maj7, C7"],
+
+"chord17":["Bm7♭5"],
+
+"chordx17":["Cmaj7♯11","Cmaj7, D7","D7sus4","D, Am","D, C","Em, F♯m7♭5","Em, Am6","Emadd9, C","F♯m7♭5","Gmaj7, Am7","Gmaj7, Cmaj7","Gmaj7, D7","Am7, D7","C♯7(alt)","Dm6, Em6","Dm, A9","Em, Faug","Fmaj7♯5, G7","G7♯11","G7, A7","A9, Dm","A7, G7","Cmaj7, Dm7♭5","Cmaj7, E7","Cmaj7, Fm","Dm7♭5, E7","E7♯9","FmMaj7, G7","Fm, Cmaj7","Fm, Em","G7♭9","G, Fm","A♭maj7♯5♯9","Cmaj7♯5","Dm7, E7","E, Fmaj7","E, Dm","Fmaj7, E","Fmaj7♯11, AmMaj7","G♯dim","Am, E7♭9","Cm6, Dm6","Cm, G9","Dm, Gaug","Dm, CmMaj7","E♭maj7♯5, F7","F7♯11","F7, G7","G9, Cm","G7, F7","Am7♭5, G7","C7sus4","C, Gm","C, B♭","Dm, Em7♭5","Dm, Gm6","Dmadd9, B♭","Em7♭5","Fmaj7, Gm7","Fmaj7, B♭maj7","Fmaj7, C7","Gm7, Am7","Gm7, C7","Am, B♭","Am, Gm","B♭maj7♯11","B♭maj7, C7","B♭maj7, Am7"]
+
+
+}
+
+
+
